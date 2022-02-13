@@ -13,6 +13,7 @@ You can download these files by pressing the green "Code" button at the top of t
 
 # Sources for data used in this workshop:
 [Fire damage data](https://open.canada.ca/data/en/dataset/b5ebfcbd-eb5e-4f7b-850b-ab840408091d)
+
 [population data](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901)
 
 # Requirements:
